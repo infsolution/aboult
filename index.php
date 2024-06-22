@@ -3792,12 +3792,12 @@
         <div id="profile" class="prose">
           <h2 class="section-headline">Perfil</h2>
           <p>
-            Olá! Sou Cícero Leonardo, desenvolvedor fullstack desde 2019 atuando com PHP, Nodejs e Python, utilizando frameworks com
+            Olá! Sou <span class="font-semibold">Cícero Leonardo</span>, desenvolvedor fullstack desde 2019 atuando com <span class="font-semibold">PHP, Nodejs e Python</span>, utilizando frameworks com
             Laravel, Nest js, Adonis js, Django e frontend com React js e Next js,
             com formação em Análise e Desenvolvimento de Sistemas pelo IFPI (2019) e Administração de Empresas pela UNOPAR (2016).
           </p>
           <p>
-            Especializado em APIs RESTFULL, Adminsitração de banco de dados Postgress e MySql. Atuamos no desenvolvimento e manutenção de diversos projetos onde aplicamos as melhores práticas seguindo padrões de projetos, testes e código limpo e com boa comunicação e relacionamento com a equipe, realizamos entragas ágeis com base no Srcum.
+            Especializado em <span class="font-semibold">APIs RESTFULL</span>, Adminsitração de banco de dados <span class="font-semibold">Postgress e MySql</span>. Atuamos no desenvolvimento e manutenção de diversos projetos onde aplicamos as melhores práticas seguindo padrões de projetos, testes e código limpo e com boa comunicação e relacionamento com a equipe, realizamos entragas ágeis com base no <span class="font-semibold">Srcum</span>.
           </p>
         </div>
         <hr class="mt-8 mb-12">
@@ -3819,7 +3819,7 @@
                 Descrição:
               </div>
               <div class="lg:inline-block lg:w-8/12 w-full">
-                Desenvolvedor Fullstack - Desenvolvimento e manutenção de aplicações web com a stack
+                <span class="font-semibold">Desenvolvedor Fullstack</span> - Desenvolvimento e manutenção de aplicações web com a stack
                 PHP, Laravel ou Codeigniter, APIs ou monolíticos, Frontend em React js, ou template engine dos frameworks, uso habitual do Scrum, Atuamos na implementação de novas plataformas, assim como na manutenção e criação de novas feactures em sistemas em uso e legados.
               </div>
             </section>
@@ -3859,8 +3859,7 @@
                 Descrição:
               </div>
               <div class="lg:inline-block lg:w-8/12 w-full">
-                Desenvolvedor Fullstack - Implementamos aplicações em Node
-                js, API em Adonis js e Frontend com React js E Websocket para comunicação entre plataformas em tempo real, equipe pequena com entregas pontuais, ao adotarmos a utilização do Scrum.
+                Desenvolvedor Fullstack - Implementamos aplicações em <span class="font-semibold">Node js, API em Adonis js e Frontend com React js</span> E <span class="font-semibold">Websocket</span> para comunicação entre plataformas em tempo real, equipe pequena com entregas pontuais, ao adotarmos a utilização do Scrum.
               </div>
             </section>
             <section class="mb-6">
